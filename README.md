@@ -1,2 +1,2 @@
 # add kodi source
-http:/vertabreak.github.io/repo
+https://vertabreak.github.io/repo
