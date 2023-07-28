@@ -1,2 +1,2 @@
-# add to kodi source
+# add kodi source
 http:/vertabreak.github.io/repo
